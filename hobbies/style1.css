@@ -1,0 +1,34 @@
+body {
+	background-color: lightblue;
+}
+h1 {
+	color: navy; text-align:center;
+}
+header {
+}
+button{
+	color:pink; text-align: center;
+}
+div {
+}
+details {
+	color: red
+}
+summary {
+	color: green
+}
+footer {
+	color: pink; text-align center;
+}
+img {
+	text-align: center;
+}
+# hobby 1 {
+	background-color: green;
+}
+# hobby 2 {
+	background-color: yellow;
+}
+#hobby 3 {
+	background-color: orange;
+}                
