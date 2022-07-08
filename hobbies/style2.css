@@ -1,0 +1,24 @@
+body{background-image: url("images/mountain.jpg");}
+header{font-size: 40px; color:#ff0066; text-align:center; }
+button{font-size: 20px; padding: 20px; background-color: #66ffff; margin-left: 600px; color:#ffff66; text-align:center;class:w3-round-large;}
+div{border: 6px solid coral;
+margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: 80px;
+  margin-left: 80px;
+ text-align:center;}
+h1{color: purple;font-style: italic;}
+details{color: black}
+summary{color: coral; font-size: 25px}
+footer{border: 6px solid white;color:yellow; text-align:center;}
+img{border: 5px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 150px;}
+a{color: navy;}  
+
+#hobby1{border-style: dashed; background-color: #66ff66;  }
+
+#hobby2{border-style: dotted; background-color: lightyellow; }
+
+#hobby3{ border-style: dashed; background-color: #66ffcc; } 
